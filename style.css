@@ -1,4 +1,8 @@
-#carrousel ul {
+body{
+  background-color: black; 
+}
+
+carrousel ul {
     list-style: none;
     margin-left: 0;
     padding-left: 0;
